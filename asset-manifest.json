@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reactTestDeploy/static/js/main.4cc21867.chunk.js",
+    "main.js.map": "/reactTestDeploy/static/js/main.4cc21867.chunk.js.map",
+    "runtime-main.js": "/reactTestDeploy/static/js/runtime-main.b7094710.js",
+    "runtime-main.js.map": "/reactTestDeploy/static/js/runtime-main.b7094710.js.map",
+    "static/js/2.d6401a9d.chunk.js": "/reactTestDeploy/static/js/2.d6401a9d.chunk.js",
+    "static/js/2.d6401a9d.chunk.js.map": "/reactTestDeploy/static/js/2.d6401a9d.chunk.js.map",
+    "index.html": "/reactTestDeploy/index.html",
+    "static/js/2.d6401a9d.chunk.js.LICENSE.txt": "/reactTestDeploy/static/js/2.d6401a9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7094710.js",
+    "static/js/2.d6401a9d.chunk.js",
+    "static/js/main.4cc21867.chunk.js"
+  ]
+}
